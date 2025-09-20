@@ -4,6 +4,10 @@
 Este proyect usa **Bootstrap** como framework de estilos 
 Fuente: [Bootstrap] (https://startbootstrap.com)
 
+## Template
+Template utilizado: [Business Casual](https://startbootstrap.com/theme/business-casual)  
+Fuente: Start Bootstrap  
+Licencia: MIT License
 
 
 
