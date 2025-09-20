@@ -1,5 +1,12 @@
 # SegundoParcialAngular
 
+## CSS Framework
+Este proyect usa **Bootstrap** como framework de estilos 
+Fuente: [Bootstrap] (https://startbootstrap.com)
+
+
+
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.1.
 
 ## Development server
