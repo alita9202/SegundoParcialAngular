@@ -1,28 +1,48 @@
 <header>
-            <h1 class="site-heading text-center text-faded d-none d-lg-block">
-                <span class="site-heading-lower">Yo soy ALEJANDRA</span>
-                <span class="site-heading-upper text-primary mb-3">Ingeniera en Sistemas y Ciencias de la Computacion</span>    
-            </h1>
-        </header>
-        <!-- Navigation-->
-        <nav class="navbar navbar-expand-lg navbar-dark py-lg-4" id="mainNav">
-            <div class="container">
-                <a class="navbar-brand text-uppercase fw-bold d-lg-none" href="index.html">Front-end Creativa</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav mx-auto">
-                        <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" href="index.html">Home</a></li>
-                        <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" [routerLink]="['/about']">Mis Certificaciones</a></li>
-                        <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" [routerLink]="['/habilidades']">Habilidades</a></li>
-                        <li class="nav-item px-lg-4"><a class="nav-link text-uppercase" [routerLink]="['/hobbies']">Hobbies</a></li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
+  <h1 class="site-heading text-center text-faded d-none d-lg-block">
+    <span class="site-heading-upper text-primary mb-3">Ingeniera en Sistemas y Ciencias de la Computación</span>
+    <span class="site-heading-lower">Yo soy ALEJANDRA</span>
+  </h1>
+</header>
 
-<main>
-    <router-outlet></router-outlet>
+<!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-dark py-lg-4" id="mainNav" role="navigation" aria-label="Menú principal">
+  <div class="container">
+    <a class="navbar-brand text-uppercase fw-bold d-lg-none" href="/" aria-label="Ir a inicio">Front-end Creativa</a>
+    
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" 
+            data-bs-target="#navbarSupportedContent" 
+            aria-controls="navbarSupportedContent" 
+            aria-expanded="false" 
+            aria-label="Abrir menú de navegación">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mx-auto">
+        <li class="nav-item px-lg-4">
+          <a class="nav-link text-uppercase" [routerLink]="['/']" routerLinkActive="active" aria-current="page">Home</a>
+        </li>
+        <li class="nav-item px-lg-4">
+          <a class="nav-link text-uppercase" [routerLink]="['/about']" routerLinkActive="active">Mis Certificaciones</a>
+        </li>
+        <li class="nav-item px-lg-4">
+          <a class="nav-link text-uppercase" [routerLink]="['/habilidades']" routerLinkActive="active">Habilidades</a>
+        </li>
+        <li class="nav-item px-lg-4">
+          <a class="nav-link text-uppercase" [routerLink]="['/hobbies']" routerLinkActive="active">Hobbies</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<main id="main-content" tabindex="-1" role="main">
+  <router-outlet></router-outlet>
 </main>
-<footer class="footer text-faded text-center py-5">
-    <div class="container"><p class="m-0 small">Copyright &copy; A.V.T.A. 2025</p></div>
+
+<footer class="footer text-faded text-center py-5" role="contentinfo">
+  <div class="container">
+    <p class="m-0 small">Copyright &copy; A.V.T.A. 2025</p>
+  </div>
 </footer>
