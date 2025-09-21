@@ -3,7 +3,7 @@ import { appConfig } from './app/app.config';
 import { App } from './app/app';
 import { Home } from './app/home/home';
 
-bootstrapApplication(App, appConfig)
+bootstrapApplication(Home, appConfig)
   .catch((err) => console.error(err));
 
 /*bootstrapApplication(App, appConfig)
