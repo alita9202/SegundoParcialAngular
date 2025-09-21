@@ -1,0 +1,101 @@
+{
+  "configVersion": 1,
+  "timestamp": 1758469107354,
+  "index": "/SegundoParcialAngular/index.csr.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/SegundoParcialAngular/favicon.ico",
+        "/SegundoParcialAngular/index.csr.html",
+        "/SegundoParcialAngular/index.html",
+        "/SegundoParcialAngular/main-IWRVTWLB.js",
+        "/SegundoParcialAngular/manifest.webmanifest",
+        "/SegundoParcialAngular/styles-5INURTSO.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/SegundoParcialAngular/assets/img/about.jpg",
+        "/SegundoParcialAngular/assets/img/bg.jpg",
+        "/SegundoParcialAngular/assets/img/deportes.jpg",
+        "/SegundoParcialAngular/assets/img/diseño.jpg",
+        "/SegundoParcialAngular/assets/img/lectura.jpg",
+        "/SegundoParcialAngular/assets/img/portada1.jpg",
+        "/SegundoParcialAngular/assets/img/portada2.jpg",
+        "/SegundoParcialAngular/assets/img/products-01.jpg",
+        "/SegundoParcialAngular/assets/img/products-02.jpg",
+        "/SegundoParcialAngular/assets/img/products-03.jpg",
+        "/SegundoParcialAngular/assets/img/videojuegos.jpg",
+        "/SegundoParcialAngular/icons/icon-128x128.png",
+        "/SegundoParcialAngular/icons/icon-144x144.png",
+        "/SegundoParcialAngular/icons/icon-152x152.png",
+        "/SegundoParcialAngular/icons/icon-192x192.png",
+        "/SegundoParcialAngular/icons/icon-384x384.png",
+        "/SegundoParcialAngular/icons/icon-512x512.png",
+        "/SegundoParcialAngular/icons/icon-72x72.png",
+        "/SegundoParcialAngular/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/SegundoParcialAngular/assets/img/about.jpg": "9fc96ff9bb340fd59b555fa167a17c170a46681a",
+    "/SegundoParcialAngular/assets/img/bg.jpg": "e40c5dfb72ac2bbeac3b2077ba223b7df15d86c1",
+    "/SegundoParcialAngular/assets/img/deportes.jpg": "28fcf1fe721f2ffbbfb5f030ae710ca5f5beda65",
+    "/SegundoParcialAngular/assets/img/diseño.jpg": "f3a3568bc60f1f327fcc660cf816acdfc4cc11b0",
+    "/SegundoParcialAngular/assets/img/lectura.jpg": "2e02531be262d55c86c09642f840d3149fd77d9c",
+    "/SegundoParcialAngular/assets/img/portada1.jpg": "8f4163f387533412c7c3f915f14aa0650ceaaf06",
+    "/SegundoParcialAngular/assets/img/portada2.jpg": "2d9ec5a4722d4d882f2fad44e4f853b93312e42c",
+    "/SegundoParcialAngular/assets/img/products-01.jpg": "18e1a44f70ee0623275023e5369865cd1e36bc9b",
+    "/SegundoParcialAngular/assets/img/products-02.jpg": "45f204d54e400b28bd228841a0af5531ef8abc7e",
+    "/SegundoParcialAngular/assets/img/products-03.jpg": "a690ce353760995a51ff60f6ceca73ac6d237057",
+    "/SegundoParcialAngular/assets/img/videojuegos.jpg": "3c201b7bddf679e0e7d0d79502771a1e4a727410",
+    "/SegundoParcialAngular/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/SegundoParcialAngular/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/SegundoParcialAngular/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/SegundoParcialAngular/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
+    "/SegundoParcialAngular/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
+    "/SegundoParcialAngular/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/SegundoParcialAngular/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
+    "/SegundoParcialAngular/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/SegundoParcialAngular/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/SegundoParcialAngular/index.csr.html": "c6dbb0a895e5a01e4a88ce62236a99d7002b5eb2",
+    "/SegundoParcialAngular/index.html": "1e3ba1589c7e66a6c4b4b2ed427c9cb1b0a991d9",
+    "/SegundoParcialAngular/main-IWRVTWLB.js": "eb9b9def9a9ddad329f9d5773885ac28be02fcb7",
+    "/SegundoParcialAngular/manifest.webmanifest": "06d93d15860a893727b49bbaaa51c869fa637fff",
+    "/SegundoParcialAngular/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
