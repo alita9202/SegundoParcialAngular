@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1758469107354,
+  "timestamp": 1758594323072,
   "index": "/SegundoParcialAngular/index.csr.html",
   "assetGroups": [
     {
@@ -14,7 +14,7 @@
         "/SegundoParcialAngular/favicon.ico",
         "/SegundoParcialAngular/index.csr.html",
         "/SegundoParcialAngular/index.html",
-        "/SegundoParcialAngular/main-IWRVTWLB.js",
+        "/SegundoParcialAngular/main-E5GDRMDK.js",
         "/SegundoParcialAngular/manifest.webmanifest",
         "/SegundoParcialAngular/styles-5INURTSO.css"
       ],
@@ -28,6 +28,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "/SegundoParcialAngular/assets/favicon.ico",
         "/SegundoParcialAngular/assets/img/about.jpg",
         "/SegundoParcialAngular/assets/img/bg.jpg",
         "/SegundoParcialAngular/assets/img/deportes.jpg",
@@ -39,6 +40,7 @@
         "/SegundoParcialAngular/assets/img/products-02.jpg",
         "/SegundoParcialAngular/assets/img/products-03.jpg",
         "/SegundoParcialAngular/assets/img/videojuegos.jpg",
+        "/SegundoParcialAngular/icons/ico.png",
         "/SegundoParcialAngular/icons/icon-128x128.png",
         "/SegundoParcialAngular/icons/icon-144x144.png",
         "/SegundoParcialAngular/icons/icon-152x152.png",
@@ -53,6 +55,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/SegundoParcialAngular/assets/favicon.ico": "122f443e27953c1fda437a6a0db20a990ee543d4",
     "/SegundoParcialAngular/assets/img/about.jpg": "9fc96ff9bb340fd59b555fa167a17c170a46681a",
     "/SegundoParcialAngular/assets/img/bg.jpg": "e40c5dfb72ac2bbeac3b2077ba223b7df15d86c1",
     "/SegundoParcialAngular/assets/img/deportes.jpg": "28fcf1fe721f2ffbbfb5f030ae710ca5f5beda65",
@@ -65,6 +68,7 @@
     "/SegundoParcialAngular/assets/img/products-03.jpg": "a690ce353760995a51ff60f6ceca73ac6d237057",
     "/SegundoParcialAngular/assets/img/videojuegos.jpg": "3c201b7bddf679e0e7d0d79502771a1e4a727410",
     "/SegundoParcialAngular/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/SegundoParcialAngular/icons/ico.png": "0d08960cadc2d330f0ef630d963aebc419379e90",
     "/SegundoParcialAngular/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
     "/SegundoParcialAngular/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
     "/SegundoParcialAngular/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
@@ -73,10 +77,10 @@
     "/SegundoParcialAngular/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/SegundoParcialAngular/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/SegundoParcialAngular/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/SegundoParcialAngular/index.csr.html": "c6dbb0a895e5a01e4a88ce62236a99d7002b5eb2",
-    "/SegundoParcialAngular/index.html": "1e3ba1589c7e66a6c4b4b2ed427c9cb1b0a991d9",
-    "/SegundoParcialAngular/main-IWRVTWLB.js": "eb9b9def9a9ddad329f9d5773885ac28be02fcb7",
-    "/SegundoParcialAngular/manifest.webmanifest": "06d93d15860a893727b49bbaaa51c869fa637fff",
+    "/SegundoParcialAngular/index.csr.html": "a7cbeac5b4e94f2c1e5c1a96b352632b5cc8f3a5",
+    "/SegundoParcialAngular/index.html": "016ac2461f9e437af8dbc2a56acd794d2e83ec9e",
+    "/SegundoParcialAngular/main-E5GDRMDK.js": "dd5d4b5b0c3c013e88ddb14bcb13700f6a080913",
+    "/SegundoParcialAngular/manifest.webmanifest": "7b64c332959225a43b8564df52baa4405d3b0906",
     "/SegundoParcialAngular/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
   "navigationUrls": [
